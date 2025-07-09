@@ -99,6 +99,12 @@ Former Premium Banking Advisor with 16+ years of experience
 
 
 
-📝 License
+📝Licence et données utilisées
+Sources des données
+Ce projet utilise des données publiques collectées à partir de Kaggle et GitHub, utilisées uniquement à des fins éducatives.
 
-To be defined. No license applied at this stage.
+Droits d’auteur
+Les données appartiennent à leurs auteurs d’origine. Je ne détiens aucun droit sur ces données.
+
+Licence du dépôt
+Aucune licence n’est appliquée à ce dépôt à ce stade. Ce projet est un travail personnel réalisé dans le cadre de mon master en Data Science.
