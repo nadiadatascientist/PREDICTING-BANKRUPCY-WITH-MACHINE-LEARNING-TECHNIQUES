@@ -92,9 +92,9 @@ This project is part of my master's thesis and applies machine learning techniqu
 
 👩‍💻 Author
 
-**Nadia Anjouar**  
-Master's Student in Data Science for Business  
-Former Premium Banking Advisor with 17+ years experience  
+**Nadia Jbilou**  
+Data Scientist | AI in Finance & Business  
+Former Premium Banking Advisor with 16+ years of experience  
 🔗 [LinkedIn](https://www.linkedin.com/in/nadia-jbilou-1107215a)
 
 
